@@ -2,6 +2,8 @@ const check1 = document.getElementById('nav1');
 const check2 = document.getElementById('btn-tel');
 const check3 = document.getElementById('btn-6');
 
+alert('Web hiện vẫn đang được phát triển');
+
 check1.onclick = function(){
     alert('Chức năng hiện đang được phát triển');
 }
